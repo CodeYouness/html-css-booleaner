@@ -1,0 +1,9 @@
+.top-image {
+    background-image: url(../img/pattern.png);
+    background-color: lightblue;
+    background-repeat: repeat-x;
+}
+
+.top-image img {
+    width: 10%;
+}
