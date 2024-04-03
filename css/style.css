@@ -24,3 +24,30 @@
 .bicolor {
     background-color: lightcyan;
 }
+
+span span {
+    color: cyan;
+}
+
+.larghezza {
+    width: 25%;
+}
+
+.autore {
+    color: lightgray;
+}
+
+#first-photo {
+    background-image: url(../img/monitor.jpg);
+}
+
+#second-photo {
+    background-image: url(../img/graph.jpg);
+}
+
+.photo {
+    color: white;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 400px;
+}
