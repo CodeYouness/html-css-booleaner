@@ -2,6 +2,7 @@
     background-image: url(../img/pattern.png);
     background-color: lightblue;
     background-repeat: repeat-x;
+    padding: 40px;
 }
 
 .top-image img {
@@ -17,9 +18,9 @@
 }
 
 .intestazione {
-    background-color: lightblue;
+    background-color: cyan;
 }
 
-table {
-    border-spacing: 100px;
+.bicolor {
+    background-color: lightcyan;
 }
