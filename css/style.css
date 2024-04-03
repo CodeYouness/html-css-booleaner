@@ -13,5 +13,13 @@
 }
 
 .background-color-yellow {
-    color: yellowgreen;
+    background-color: yellowgreen;
+}
+
+.intestazione {
+    background-color: lightblue;
+}
+
+table {
+    border-spacing: 100px;
 }
