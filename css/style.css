@@ -6,15 +6,11 @@
 }
 
 .top-image img {
-    width: 10%;
+    width: 20%;
 }
 
 .autore {
     font-size: x-large;
-}
-
-.background-color-yellow {
-    background-color: yellowgreen;
 }
 
 .intestazione {
@@ -47,7 +43,11 @@ span span {
 
 .photo {
     color: white;
-    background-repeat: no-repeat;
+    background-size: cover;
     height: 200px;
     width: 400px;
+}
+
+table {
+    border-collapse: collapse;
 }
